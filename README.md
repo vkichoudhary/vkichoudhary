@@ -46,9 +46,9 @@
 ---
 
 ## 📫 How to reach me  
-- Email: [bardwalvikas254@gmail.com]  
-- LinkedIn: [www.linkedin.com/in/vikas-baradwal]    
-
+- Email: [bardwalvikas254@gmail.com](mailto:bardwalvikas254@gmail.com)  
+- LinkedIn: [www.linkedin.com/in/vikas-baradwal](https://www.linkedin.com/in/vikas-baradwal)
+  
 ---
 
 ## 😄 Fun Fact  
