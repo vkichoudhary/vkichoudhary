@@ -47,8 +47,7 @@
 
 ## 📫 How to reach me  
 - Email: [your_email@example.com](mailto:your_email@example.com)  
-- LinkedIn: [Your LinkedIn Profile](#)  
-- Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)  
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/vikas-baradwal)    
 
 ---
 
