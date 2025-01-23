@@ -46,7 +46,7 @@
 ---
 
 ## 📫 How to reach me  
-- Email: [your_email@example.com](mailto:your_email@example.com)  
+- Email: [bardwalvikas254@gmail.com]  
 - LinkedIn: [www.linkedin.com/in/vikas-baradwal]    
 
 ---
